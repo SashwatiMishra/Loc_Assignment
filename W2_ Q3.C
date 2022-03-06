@@ -1,3 +1,4 @@
+//To print swaping of first and last digit of an integer//
 #include <stdio.h>
 #include <math.h>
 int main()
