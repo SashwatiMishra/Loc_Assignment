@@ -1,4 +1,5 @@
-include <stdio.h>
+//To print the pattern//
+#include <stdio.h>
 int main()
 {
    int i, j, N=5;
