@@ -4,7 +4,7 @@
 int main()
 {
     char s1[100],s2[100];  
-    int i,j,k,temp;
+    int i,j,k,len=0,temp;
  
     printf("Enter  string1: ");
     scanf("%s",&s1);
@@ -19,8 +19,7 @@ int main()
     s1[i+j]='\0';
  
     printf("combined two strings ='%s'\n",s1);
-    k=i + j;
-    for (k = 0; k<len/2; k++)  
+    for (k = 0; k<s1[len/2]; k++)  
     {   
         temp = s1[k];  
         s1[k] = s1[len - k - 1];  
