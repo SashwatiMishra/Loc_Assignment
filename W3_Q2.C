@@ -1,7 +1,7 @@
-/*a program in C to check a number is a prime number or not
+/*A program in C to check a number is a prime number or not
 using recursion*/
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 int isPrime(int,int);
 int main()
 {
