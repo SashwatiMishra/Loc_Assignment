@@ -1,6 +1,6 @@
 /*A program in C to find the GCD of two numbers using recursion*/
 #include <stdio.h>
-#include<conio.h>
+#include <conio.h>
 int hcf(int n1, int n2);
 int main() 
 {
