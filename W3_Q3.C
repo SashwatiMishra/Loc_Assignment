@@ -1,9 +1,8 @@
-/*A C program to check whether a number is even or odd
-using functions
-*/
-#include<stdio.h>
-#include<stdlib.h>
-#include<conio.h>
+/*C program to check whether a number is even or odd
+using functions*/
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
 int find_Num(int);
 int main()
 {
